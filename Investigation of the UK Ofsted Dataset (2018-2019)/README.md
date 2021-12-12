@@ -6,6 +6,6 @@ This folder contains courseworks exploring the UK Ofted school instection report
 
 ***Component 2*** comprises exploratory data visualisation of the dataset.
 
-***Component 3*** comprises a self directed exploratory project assessing the relatative retention gap between disadvantaged pupils and their peers within schools, culminating in a wiritten report *".
+***Component 3*** comprises a self directed exploratory project assessing the relatative retention gap between disadvantaged pupils and their peers within schools, culminating in a wiritten report *"Measuring the Disadvantaged Attainment Gap, Is It Enough"*.
 
 ***Component 4*** comprises feature engineering and training of a classifier algorithm to predict the final Ofsted rating of schools.
